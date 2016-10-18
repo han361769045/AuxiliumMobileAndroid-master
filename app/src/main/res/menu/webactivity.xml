@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/gps0">
+        <menu>
+            <item
+                android:id="@+id/fifteen"
+                android:title="@string/gps1" />
+            <item
+                android:id="@+id/thirty"
+                android:title="@string/gps2" />
+            <item
+                android:id="@+id/hour"
+                android:title="@string/gps3" />
+            <item
+                android:id="@+id/indef"
+                android:title="@string/indefinitly" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/refresh"
+        android:title="@string/refresh" />
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings" />
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout" />
+</menu>

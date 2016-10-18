@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Auxilium Mobile</string>
+    <string name="login_user">Email or Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_client">Client ID</string>
+    <string name="login_submit">Login</string>
+    <string name="logout">Logout</string>
+    <string name="gps_permision">Insufficent Permission</string>
+    <string name="gps0">GPS Tracking</string>
+    <string name="gps1">15 Minutes</string>
+    <string name="gps2">30 Minutes</string>
+    <string name="gps3">60 Minutes</string>
+    <string name="app_title">Mobile</string>
+    <string name="settings">Settings</string>
+    <string name="settings_dialog_toggle">Automatic Tracking</string>
+    <string name="settings_dialog_length">Automatic Tracking Length (Minutes)</string>
+    <string name="settings_dialog_save">Save</string>
+    <string name="settings_dialog_cancel">Cancel</string>
+    <string name="tracking_snackbar">Tracking: %1$d:%2$02d</string>
+    <string name="refresh">Refresh</string>
+    <string name="auto_login">Auto Login</string>
+    <string name="manual_gps">GPS Tracking</string>
+    <string name="max_length">Maximum allowed tracking time if enabled (Minutes)</string>
+    <string name="alarm">Alarm</string>
+    <string name="indefinitly">Indefinitly</string>
+</resources>
